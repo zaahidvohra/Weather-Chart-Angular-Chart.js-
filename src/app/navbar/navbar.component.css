@@ -1,0 +1,27 @@
+.nav-link:hover {
+    color: rgb(183, 173, 255);
+}
+
+.nav-link:focus {
+    color: rgb(149, 135, 255) !important;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    color: aliceblue;
+}
+
+.navbar-brand:hover {
+    color: rgb(183, 173, 255);
+}
+
+.nav-link {
+    font-size: larger;
+    color: aliceblue;
+}
+
+.navbar {
+    background-color: rgba(63, 81, 181, 1.0) !important;
+    color: aliceblue !important;
+}
+

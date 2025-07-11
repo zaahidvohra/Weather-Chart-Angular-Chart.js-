@@ -1,0 +1,125 @@
+{
+  "latitude" : 28.631,
+  "longitude" : 77.2172,
+  "resolvedAddress" : "India",
+  "address" : "India",
+  "timezone" : "Asia/Kolkata",
+  "tzoffset" : 5.5,
+  "name" : "India",
+  "days" : [ {
+    "datetime" : "2024-01-31",
+    "temp" : 12.8
+  }, {
+    "datetime" : "2024-02-01",
+    "temp" : 15.2
+  }, {
+    "datetime" : "2024-02-02",
+    "temp" : 12.9
+  }, {
+    "datetime" : "2024-02-03",
+    "temp" : 13.9
+  }, {
+    "datetime" : "2024-02-04",
+    "temp" : 16.1
+  }, {
+    "datetime" : "2024-02-05",
+    "temp" : 16.1
+  }, {
+    "datetime" : "2024-02-06",
+    "temp" : 13.5
+  }, {
+    "datetime" : "2024-02-07",
+    "temp" : 13.5
+  }, {
+    "datetime" : "2024-02-08",
+    "temp" : 14.3
+  }, {
+    "datetime" : "2024-02-09",
+    "temp" : 15.0
+  }, {
+    "datetime" : "2024-02-10",
+    "temp" : 14.9
+  }, {
+    "datetime" : "2024-02-11",
+    "temp" : 15.2
+  }, {
+    "datetime" : "2024-02-12",
+    "temp" : 15.6
+  }, {
+    "datetime" : "2024-02-13",
+    "temp" : 15.9
+  }, {
+    "datetime" : "2024-02-14",
+    "temp" : 16.7
+  }, {
+    "datetime" : "2024-02-15",
+    "temp" : 17.0
+  }, {
+    "datetime" : "2024-02-16",
+    "temp" : 17.3
+  }, {
+    "datetime" : "2024-02-17",
+    "temp" : 17.2
+  }, {
+    "datetime" : "2024-02-18",
+    "temp" : 19.2
+  }, {
+    "datetime" : "2024-02-19",
+    "temp" : 21.0
+  }, {
+    "datetime" : "2024-02-20",
+    "temp" : 21.0
+  }, {
+    "datetime" : "2024-02-21",
+    "temp" : 19.4
+  }, {
+    "datetime" : "2024-02-22",
+    "temp" : 19.2
+  }, {
+    "datetime" : "2024-02-23",
+    "temp" : 18.0
+  }, {
+    "datetime" : "2024-02-24",
+    "temp" : 19.2
+  }, {
+    "datetime" : "2024-02-25",
+    "temp" : 20.1
+  }, {
+    "datetime" : "2024-02-26",
+    "temp" : 22.0
+  }, {
+    "datetime" : "2024-02-27",
+    "temp" : 22.5
+  }, {
+    "datetime" : "2024-02-28",
+    "temp" : 22.8
+  }, {
+    "datetime" : "2024-02-29",
+    "temp" : 23.1
+  }, {
+    "datetime" : "2024-03-01",
+    "temp" : 24.9
+  }, {
+    "datetime" : "2024-03-02",
+    "temp" : 25.6
+  }, {
+    "datetime" : "2024-03-03",
+    "temp" : 24.6
+  }, {
+    "datetime" : "2024-03-04",
+    "temp" : 24.2
+  }, {
+    "datetime" : "2024-03-05",
+    "temp" : 23.8
+  }, {
+    "datetime" : "2024-03-06",
+    "temp" : 24.3
+  }, {
+    "datetime" : "2024-03-07",
+    "temp" : 24.4
+  }, {
+    "datetime" : "2024-03-08",
+    "temp" : 25.5
+  } ],
+  "queryCost" : 24
+}

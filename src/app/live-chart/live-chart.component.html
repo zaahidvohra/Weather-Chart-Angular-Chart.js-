@@ -1,0 +1,23 @@
+<h1>{{city}} Weather forecast (1 day)</h1>
+<div class="container">
+    <div class="col-md-12">
+        <mat-form-field class="m-3">
+            <mat-label>City name</mat-label>
+            <input matInput [(ngModel)]="city">
+        </mat-form-field>
+        <mat-form-field class="m-3">
+            <mat-label>Select graph type</mat-label>
+            <mat-select [(value)]="graph">
+            <mat-option value="line">Line</mat-option>
+            <mat-option value="bar">Bar</mat-option>
+            <!-- <mat-option value="bubble">Bubble</mat-option> -->
+            <mat-option value="radar">Radar</mat-option>
+            <!-- <mat-option value="scatter">Scatter</mat-option> -->
+            <mat-option value="doughnut">Doughnut</mat-option>
+            <mat-option value="pie">Pie</mat-option>
+            </mat-select>
+        </mat-form-field>
+        <button mat-raised-button color="primary" (click)="chartClick()" class="m-3">Generate</button>
+    </div>
+    <canvas id="live-chart"></canvas>
+</div>

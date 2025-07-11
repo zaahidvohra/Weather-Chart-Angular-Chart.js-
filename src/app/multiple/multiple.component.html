@@ -1,0 +1,19 @@
+<h1>Weather forecast (1 day)</h1>
+<div class="container">
+    <div class="col-md-10">
+        <mat-form-field class="m-3">
+            <mat-label>City name</mat-label>
+            <input matInput [(ngModel)]="city">
+        </mat-form-field>
+        <mat-form-field class="m-3">
+            <mat-label>City name</mat-label>
+            <input matInput [(ngModel)]="city1">
+        </mat-form-field>
+        <mat-form-field class="m-3">
+            <mat-label>City name</mat-label>
+            <input matInput [(ngModel)]="city2">
+        </mat-form-field>
+        <button mat-raised-button color="primary" (click)="chartClick()" class="mb-3">Generate</button>
+    </div>
+    <canvas id="live-chart"></canvas>
+</div>
